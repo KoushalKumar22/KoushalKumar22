@@ -58,7 +58,7 @@
 
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushalkumar22&show_icons=true&theme=dracula&title_color=fa7a18&text_color=ffffff&bg_color=000000&locale=en" style="border: none; margin-right: 20px;" alt="koushalkumar22" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koushalkumar22&show_icons=true&theme=dracula&title_color=fa7a18&text_color=ffffff&bg_color=000000&locale=en" style="border: none;" alt="koushalkumar22" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushalkumar22&theme=highcontrast" style="border: none; margin-left: 20px;" alt="koushalkumar22" />
 </div>
 
