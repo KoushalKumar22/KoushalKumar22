@@ -1,9 +1,24 @@
-- 👋 Hi, I’m KoushalKumar
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+
+<h1 align="center">Hi 👋, I'm Koushal Kumar</h1>
+<h3 align="center">A passionate Backend developer</h3>
+
+<img align="right" alt="Coding" width="310" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXl4dWZrZ25kM3g4czMzd252d2RmMG1ncG0wa3diaTl2dTU4cWRhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.webp" style="margin-top: -100px;" />
+
+</br>
+</br>
+</br>
+
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Spring Boot APIS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me koushalkumar222@gamail.com
 - ⚡ Fun fact: If It Works Dont Touch It 👀
+
+
+</br>
+</br>
+</br>
+
 
 - ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_koushal._.kumar/)
@@ -21,6 +36,7 @@
 ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?&logo=Apache-Tomcat)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?&logo=Apache)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?&logo=MariaDB)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL)
 ![Postgres](https://img.shields.io/badge/-Postgres-336791?&logo=PostgreSQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)
@@ -29,6 +45,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?&logo=Swagger)
+
 ![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![S3](https://img.shields.io/badge/AWS-S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
@@ -38,16 +55,25 @@
 
 
 ## GitHub Stats:
-![Koushal Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoushalKumar22&show_icons=true&theme=radical)
 
 
-![Koushal Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KoushalKumar22&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=koushalkumar22&show_icons=true&theme=dracula&title_color=fa7a18&text_color=ffffff&bg_color=000000&locale=en" style="border: none; margin-right: 20px;" alt="koushalkumar22" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushalkumar22&theme=highcontrast" style="border: none; margin-left: 20px;" alt="koushalkumar22" />
+</div>
 
 
 ## Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoushalKumar22&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=KoushalKumar22&color=blue)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushalkumar22&show_icons=true&theme=merko&title_color=fa7a18&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="koushalkumar22" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=koushalkumar22&label=Profile%20views&color=fa7a18&style=plastic" alt="koushalkumar22" /> </p>
+
+
+
+
+
 
 
 <!---
