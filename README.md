@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-<h1 align="center">Hi 👋, I'm Koushal Kumar</h1>
+<h1 align="center">Hi 👋, Myself Koushal Kumar</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
 <img align="right" alt="Coding" width="310" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXl4dWZrZ25kM3g4czMzd252d2RmMG1ncG0wa3diaTl2dTU4cWRhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.webp" style="margin-top: -100px;" />
@@ -12,9 +12,9 @@
 </br>
 
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Spring Boot APIS
-- 📫 How to reach me koushalkumar222@gamail.com
-- ⚡ Fun fact: If It Works Dont Touch It 👀
+- 🌱 And currently learning Spring Boot APIS
+- 📫 How to reach me? text me through this👉[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="25"/>](https://www.instagram.com/yourusername)
+- ⚡ Fun fact: If It Works Don't Touch It 👀
 
 
 </br>
