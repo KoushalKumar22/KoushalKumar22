@@ -13,7 +13,7 @@
 
 - 👀 I’m interested in Backend Development
 - 🌱 And currently learning Spring Boot APIS
-- 📫 How to reach me? text me through this👉[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="25"/>](https://www.instagram.com/yourusername)
+- 📫 How to reach me? text me through this👉[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="25"/>](https://www.instagram.com/_koushal._.kumar/)
 - ⚡ Fun fact: If It Works Don't Touch It 👀
 
 
