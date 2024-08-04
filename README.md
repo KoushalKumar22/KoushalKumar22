@@ -11,10 +11,10 @@
 </br>
 </br>
 
-- 👀 I’m interested in Backend Development
-- 🌱 And currently learning Spring Boot APIS
-- 📫 How to reach me? text me through this👉[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="25"/>](https://www.instagram.com/_koushal._.kumar/)
-- ⚡ Fun fact: If It Works Don't Touch It 👀
+<h3>- 👀 I’m interested in Backend Development</h3>
+<h3>- 🌱 And currently learning Spring Boot APIS</h3>
+<h3>- 📫 How to reach me? text me through this👉<a href="https://www.instagram.com/_koushal._.kumar/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="25" style="vertical-align: middle;"/></a></h3>
+<h3>- ⚡ Fun fact: If It Works Don't Touch It 👀</h3>
 
 
 </br>
@@ -25,36 +25,49 @@
 - ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_koushal._.kumar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:koushalkumar222@gmail.com)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@_koushal._.kumar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/KoushalKumar)
 
 
 
 ## Tech Stack:
+
+### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-007396?&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?&logo=github&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?&logo=Apache-Tomcat)
-![Apache](https://img.shields.io/badge/-Apache-D22128?&logo=Apache)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?&logo=MariaDB)
 
+### Databases
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?&logo=MariaDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL)
-![Postgres](https://img.shields.io/badge/-Postgres-336791?&logo=PostgreSQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB)
+
+### Frameworks and Libraries
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?&logo=Spring-Boot)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?&logo=Hibernate)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-C71A36?&logo=Apache-Maven)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?&logo=Gradle)
+![Groovy](https://img.shields.io/badge/-Groovy-4298B8?&logo=Apache-Groovy)
+
+### Tools and Platforms
+![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?&logo=GitLab)
-![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-C71A36?&logo=Apache-Maven)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker)
+
+### Cloud and Hosting
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+### Testing
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?&logo=JUnit5)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?&logo=Swagger)
-
-![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![S3](https://img.shields.io/badge/AWS-S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
 
 ## GitHub Stats:
 
